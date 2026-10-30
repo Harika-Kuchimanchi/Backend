@@ -1,0 +1,18 @@
+{
+  "name": "backend-js",
+  "version": "1.0.0",
+  "description": "First Project in BE",
+  "license": "ISC",
+  "author": "Harika Kuchimanchi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "drizzle-kit": "^1.0.0-rc.5",
+    "drizzle-orm": "^1.0.0-rc.5",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}
